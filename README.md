@@ -1,2 +1,3 @@
-# stackinPython
-stack data structure in python programming
+stack and queue
+
+stack and Queue data structure in python programming
